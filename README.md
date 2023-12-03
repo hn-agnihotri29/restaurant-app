@@ -4,7 +4,7 @@ This is a [React](https://reactjs.org/) frontend project assessment by Rox Wealt
 
 For this app, we made use of react.js to create a restaurant database in this application we created the REST API that runs locally on the server and uses the fetch function to fetch all JSON data  and implemented pagination from scratch and using a package like [React Router](https://reactrouter.com/en/main).
 
-![image](https://drive.google.com/drive/my-drive)
+![image](https://github.com/hn-agnihotri29/restaurant-app/blob/master/public/images/paul-griffin-WWST6E8LxeE-unsplash.jpg)
 
 ## Available Scripts
 
